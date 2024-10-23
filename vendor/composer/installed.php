@@ -3,7 +3,7 @@
         'name' => 'zemskiy/prodo',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'bc7d585bfb420ff73ffb89938a19fca5c291cf2a',
+        'reference' => '2084e901e22b9ff551a19eba1741e5d5d6fa900d',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -247,7 +247,7 @@
         'zemskiy/prodo' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'bc7d585bfb420ff73ffb89938a19fca5c291cf2a',
+            'reference' => '2084e901e22b9ff551a19eba1741e5d5d6fa900d',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
