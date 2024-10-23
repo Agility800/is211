@@ -238,5 +238,20 @@
                 "sum": 3400
             }
         ]
+    },
+    {
+        "name": "dfgdrfgdfg",
+        "address": "dfgdfgdfg",
+        "phone": "b hubpyhi",
+        "created_at": "23-10-2024 08:06:56",
+        "all_sum": 4500,
+        "products": [
+            {
+                "name": "Рубашка",
+                "quantity": 1,
+                "price": 4500,
+                "sum": 4500
+            }
+        ]
     }
 ]
