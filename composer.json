@@ -1,8 +1,8 @@
 {
-    "name": "burger/krig",
+    "name": "zemskiy/prodo",
     "autoload": {
         "psr-4": {
-            "": "BurgerKrig/"
+            "": "src/"
         }
     },
     "authors": [
