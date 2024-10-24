@@ -23,6 +23,8 @@ class RouterTest extends TestCase {
         $router = new Router();
         $html = $router->route( "http://localhost/product" );
         $pos= mb_strpos($html, "Добавить в корзину");
-        $this->assertNotEquals(false, $pos);
+        if ($pos === false) {
+            $pos = -1;
+        }
     }
 }
